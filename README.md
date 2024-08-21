@@ -2,7 +2,7 @@
 ## Operations System (encapsulamiento e.g) 
 
 
-```
+``` kotlin
 using System;
 using System.Threading;
 
