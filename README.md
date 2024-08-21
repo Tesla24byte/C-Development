@@ -2,7 +2,7 @@
 ## Operations System (encapsulamiento e.g) 
 
 
-
+```
 using System;
 using System.Threading;
 
@@ -38,7 +38,7 @@ namespace Expendedora1
             
             
          }
-
+```
 ![image](https://github.com/user-attachments/assets/9488d962-c51e-4fbe-9b39-02396cfe168a)
 
 
