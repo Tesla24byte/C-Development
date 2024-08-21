@@ -1,5 +1,5 @@
 # C# Development
-## Operations System (enacpsulamiento e.g) 
+## Operations System (encapsulamiento e.g) 
 
 
 
