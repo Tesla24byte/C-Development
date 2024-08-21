@@ -15,7 +15,7 @@ namespace Expendedora1
         private ushort _cantProductos;
         private float _precio;
         #endregion
-``
+
         #region Propiedades o encampsulado
         public sbyte Temperatura { 
             get => _temperatura; 
@@ -32,7 +32,7 @@ namespace Expendedora1
                 }
              }
             }
-    
+``
 ### Development software bank system  in C#
 - by Yael Valencia
 
