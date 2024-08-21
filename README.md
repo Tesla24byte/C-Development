@@ -1,10 +1,8 @@
 # C# Development
 ## Operations System (enacpsulamiento e.g) 
 
-
-`using System;
+using System;
 using System.Threading;
-
 
 namespace Expendedora1
 {
@@ -32,7 +30,7 @@ namespace Expendedora1
                 
                 }
              }
-            } `
+            } 
 
 ### Development software bank system  in C#
 - by Yael Valencia
